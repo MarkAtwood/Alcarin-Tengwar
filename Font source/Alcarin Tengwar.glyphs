@@ -17,21 +17,16 @@ code = "dottripleabove-teng\012dotdblabove-teng\012dotabove-teng\012acute-teng\0
 name = accTop;
 },
 {
-code = "dottriplebelow-teng\012dotdblbelow-teng\012dotbelow-teng\012acutebelow-teng\012acutebelow_acutebelow-teng\012rightcurlbelow-teng\012leftcurlbelow-teng\012macronbelow-teng\012macronbelow-teng.lambe\012macronbelow-teng.short\012macronbelow-teng.shortR\012macronbelow-teng.wide\012rightcurlbelowright-teng\012";
+code = "dottriplebelow-teng\012dotdblbelow-teng\012dotbelow-teng\012acutebelow-teng\012acutebelow_acutebelow-teng\012rightcurlbelow-teng\012leftcurlbelow-teng\012macronbelow-teng\012macronbelow-teng.lambe\012macronbelow-teng.short\012macronbelow-teng.shortR\012macronbelow-teng.wide\012rightcurlbelowright-teng\012\012gravebelow-teng\012caronbelow-teng\012brevebelow-teng\012tildebelow-teng\012wavebelow-teng\012ringbelow-teng\012dottripleturnedbelow-teng\012";
 name = accBottom;
 },
 {
-code = "dottripleabove-teng\012dottriplebelow-teng\012dotdblabove-teng\012dotdblbelow-teng\012dotabove-teng\012dotbelow-teng\012acute-teng\012acute_acute-teng\012acutebelow-teng\012acutebelow_acutebelow-teng\012rightcurl-teng\012rightcurl_rightcurl-teng\012rightcurlbelow-teng\012leftcurl-teng\012leftcurl_leftcurl-teng\012leftcurlbelow-teng\012ring-teng\012wave-teng\012macron-teng\012macronbelow-teng\012tilde-teng\012breve-teng\012grave-teng\012caron-teng\012dottripleturnedabove-teng\012thinnas-teng\012sarince-teng\012dotinside-teng\012duodecimalleast-teng\012macronbelow-teng.lambe\012wave-teng.short\012macron-teng.short\012macronbelow-teng.short\012tilde-teng.short\012wave-teng.shortL\012macron-teng.shortL\012wave-teng.shortR\012macron-teng.shortR\012macronbelow-teng.shortR\012caron-teng.ss06\012wave-teng.wide\012macron-teng.wide\012macronbelow-teng.wide\012rightcurlbelowright-teng\012";
+code = "dottripleabove-teng\012dottriplebelow-teng\012dotdblabove-teng\012dotdblbelow-teng\012dotabove-teng\012dotbelow-teng\012acute-teng\012acute_acute-teng\012acutebelow-teng\012acutebelow_acutebelow-teng\012rightcurl-teng\012rightcurl_rightcurl-teng\012rightcurlbelow-teng\012leftcurl-teng\012leftcurl_leftcurl-teng\012leftcurlbelow-teng\012ring-teng\012wave-teng\012macron-teng\012macronbelow-teng\012tilde-teng\012breve-teng\012grave-teng\012caron-teng\012dottripleturnedabove-teng\012thinnas-teng\012sarince-teng\012dotinside-teng\012duodecimalleast-teng\012macronbelow-teng.lambe\012wave-teng.short\012macron-teng.short\012macronbelow-teng.short\012tilde-teng.short\012wave-teng.shortL\012macron-teng.shortL\012wave-teng.shortR\012macron-teng.shortR\012macronbelow-teng.shortR\012caron-teng.ss06\012wave-teng.wide\012macron-teng.wide\012macronbelow-teng.wide\012rightcurlbelowright-teng\012\012gravebelow-teng\012caronbelow-teng\012brevebelow-teng\012tildebelow-teng\012wavebelow-teng\012ringbelow-teng\012dottripleturnedbelow-teng\012";
 name = accAll;
 },
 {
 code = "osse-teng\012umbarascent-teng\012nwalme-teng\012aare-teng\012roomen-teng\012anca-teng\012harma-teng\012ando-teng\012angaascent-teng\012nuumen-teng\012calmaascent-teng\012quesse-teng\012silmeturned-teng\012mhbelerian-teng\012vaiya-teng\012carriershort-teng\012mh-teng\012lambe-teng\012tincoascent-teng\012ungwe-teng\012parmaascent-teng\012arda-teng\012hwbombadil-teng\012thuule-teng\012parma-teng\012anto-teng\012vilya-teng\012anna-teng\012vala-teng\012hwlowdham-teng\012calma-teng\012hwesta-teng\012uure-teng\012formen-teng\012noldo-teng\012aareturned-teng\012carrierlong-teng\012alda-teng\012umbar-teng\012ungweascent-teng\012quesseascent-teng\012ossereversed-teng\012tinco-teng\012ampa-teng\012wbombadil-teng\012annaopen-teng\012quchris-teng\012silme-teng\012hyarmen-teng\012anga-teng\012andoascent-teng\012oore-teng\012unque-teng\012yanta-teng\012hwestasindar-teng\012halla-teng\012malta-teng";
 name = normal;
-},
-{
-code = "osse_sarincefina-teng\012umbarascent_sarincefina-teng\012nwalme_sarincefina-teng\012aare_sarincefina-teng\012roomen_sarincefina-teng\012anca_sarincefina-teng\012harma_sarincefina-teng\012ando_sarincefina-teng\012angaascent_sarincefina-teng\012nuumen_sarincefina-teng\012calmaascent_sarincefina-teng\012quesse_sarincefina-teng\012silmeturned_sarincefina-teng\012#mhbelerian_sarincefina-teng\012vaiya_sarincefina-teng\012carriershort_sarincefina-teng\012# mh_sarincefina-teng\012lambe_sarincefina-teng\012tincoascent_sarincefina-teng\012ungwe_sarincefina-teng\012parmaascent_sarincefina-teng\012arda_sarincefina-teng\012# hwbombadil_sarincefina-teng\012thuule_sarincefina-teng\012parma_sarincefina-teng\012anto_sarincefina-teng\012vilya_sarincefina-teng\012anna_sarincefina-teng\012vala_sarincefina-teng\012#hwlowdham_sarincefina-teng\012calma_sarincefina-teng\012hwesta_sarincefina-teng\012#uure_sarincefina-teng\012formen_sarincefina-teng\012noldo_sarincefina-teng\012aareturned_sarincefina-teng\012#carrierlong_sarincefina-teng\012alda_sarincefina-teng\012umbar_sarincefina-teng\012ungweascent_sarincefina-teng\012quesseascent_sarincefina-teng\012ossereversed_sarincefina-teng\012tinco_sarincefina-teng\012ampa_sarincefina-teng\012wbombadil_sarincefina-teng\012annaopen_sarincefina-teng\012#quchris_sarincefina-teng\012silme_sarincefina-teng\012hyarmen_sarincefina-teng\012anga_sarincefina-teng\012andoascent_sarincefina-teng\012oore_sarincefina-teng\012unque_sarincefina-teng\012yanta_sarincefina-teng\012hwestasindar_sarincefina-teng\012halla_sarincefina-teng\012malta_sarincefina-teng";
-disabled = 1;
-name = sarinceliga;
 },
 {
 code = "tinco-teng\012parma-teng\012ando-teng\012umbar-teng\012anga-teng\012thuule-teng\012formen-teng\012harma-teng\012anto-teng\012ampa-teng\012anca-teng\012nuumen-teng\012malta-teng\012noldo-teng\012oore-teng\012vala-teng\012anna-teng\012tincoascent-teng\012parmaascent-teng\012calmaascent-teng\012andoascent-teng\012umbarascent-teng\012angaascent-teng";
@@ -106,7 +101,7 @@ name = Languagesystems;
 );
 features = (
 {
-code = "lookup base_transform { # tengwa (base letter) alternates\012	sub hyarmen-teng' @accBottom @accBottom @accBottom @accTop by hyarmen-teng.top;\012	sub hyarmen-teng' @accBottom @accBottom @accTop by hyarmen-teng.top;\012	sub hyarmen-teng' @accBottom @accTop by hyarmen-teng.top;\012	sub hyarmen-teng' @accTop by hyarmen-teng.top;\012\012	sub [roomen-teng arda-teng]' @accTop @accTop @accTop @accBottom by [roomen-teng.bottom arda-teng.bottom];\012	sub [roomen-teng arda-teng]' @accTop @accTop @accBottom by [roomen-teng.bottom arda-teng.bottom];\012	sub [roomen-teng arda-teng]' @accTop @accBottom by [roomen-teng.bottom arda-teng.bottom];\012	sub [roomen-teng arda-teng]' @accBottom by [roomen-teng.bottom arda-teng.bottom];\012\012	sub lambe-teng' @accTop @accTop @accTop @accBottom by lambe-teng.big;\012	sub lambe-teng' @accTop @accTop @accBottom by lambe-teng.big;\012	sub lambe-teng' @accTop @accBottom by lambe-teng.big;\012	sub lambe-teng' @accBottom by lambe-teng.big;\012\012	sub alda-teng' @accTop @accTop @accTop @accBottom by alda-teng.big;\012	sub alda-teng' @accTop @accTop @accBottom by alda-teng.big;\012	sub alda-teng' @accTop @accBottom by alda-teng.big;\012	sub alda-teng' @accBottom by alda-teng.big;\012} base_transform;\012\012lookup wide_acc { # Wide accents in general\012	sub @wide @accTop @accTop [macron-teng macronbelow-teng wave-teng]' by [macron-teng.wide macronbelow-teng.wide wave-teng.wide];\012	sub @wide @accTop [macron-teng macronbelow-teng wave-teng]' by [macron-teng.wide macronbelow-teng.wide wave-teng.wide];\012	sub @wide [macron-teng macronbelow-teng wave-teng]' by [macron-teng.wide macronbelow-teng.wide wave-teng.wide];\012} wide_acc;\012\012lookup narrow_acc { # Narrow accents in general\012	sub [thuule-teng formen-teng tincoascent-teng parmaascent-teng hwlowdham-teng sarincefina-teng sarincefina2-teng sarincefina2-teng.top sarincefina3-teng sarincefina3-teng.top sarincefina-teng.top ] @accTop [macron-teng wave-teng]' by [macron-teng.shortR wave-teng.shortR];\012	sub [thuule-teng formen-teng tincoascent-teng parmaascent-teng hwlowdham-teng sarincefina-teng sarincefina2-teng sarincefina2-teng.top sarincefina3-teng sarincefina3-teng.top sarincefina-teng.top ] [tilde-teng macron-teng wave-teng]' by [tilde-teng.short macron-teng.shortR wave-teng.shortR];\012	sub [harma-teng hwesta-teng calmaascent-teng quesseascent-teng hwestasindar-teng] @accTop [macron-teng wave-teng]' by [macron-teng.shortL wave-teng.shortL];\012	sub [harma-teng hwesta-teng calmaascent-teng quesseascent-teng hwestasindar-teng] [macron-teng wave-teng]' by [macron-teng.shortL wave-teng.shortL];\012	sub [hyarmen-teng.top silme-teng aare-teng carrierlong-teng halla-teng carriershort-teng] [tilde-teng macron-teng wave-teng]' by [tilde-teng.short macron-teng.short wave-teng.short];\012	sub [roomen-teng.bottom arda-teng.bottom alda-teng.big] @accTop @accTop @accTop @accTop macronbelow-teng' by macronbelow-teng.short;\012	sub [roomen-teng.bottom arda-teng.bottom alda-teng.big] @accTop @accTop macronbelow-teng' by macronbelow-teng.short;\012	sub [roomen-teng.bottom arda-teng.bottom alda-teng.big] @accTop macronbelow-teng' by macronbelow-teng.short;\012	sub [roomen-teng.bottom arda-teng.bottom alda-teng.big] macronbelow-teng' by macronbelow-teng.short;\012} narrow_acc;\012\012lookup double_acc { # Diacritical ligatures\012	sub acute-teng acute-teng by acute_acute-teng;\012	sub leftcurl-teng leftcurl-teng by leftcurl_leftcurl-teng;\012	sub rightcurl-teng rightcurl-teng by rightcurl_rightcurl-teng;\012	sub acutebelow-teng acutebelow-teng by acutebelow_acutebelow-teng;\012} double_acc;\012\012lookup carrierLongBelow { # long carrier can become below mark in Old English\012	sub zerowidthjoiner carrierlong-teng by carrierlongBelow-teng;\012} carrierLongBelow;\012\012lookup lambe_acc { # Macron for lambe\012	sub lambe-teng.big @accTop @accTop @accTop macronbelow-teng' by macronbelow-teng.lambe;\012	sub lambe-teng.big @accTop @accTop macronbelow-teng' by macronbelow-teng.lambe;\012	sub lambe-teng.big @accTop macronbelow-teng' by macronbelow-teng.lambe;\012	sub lambe-teng.big macronbelow-teng' by macronbelow-teng.lambe;\012} lambe_acc;\012\012lookup lambe_acc_second {\012	sub [lambe-teng alda-teng lambe-teng.big alda-teng.big lambe_sarincefina-teng.rlig alda_sarincefina-teng.rlig] @accBottom [carrierlongBelow-teng dottriplebelow-teng dotdblbelow-teng dotbelow-teng rightcurlbelow-teng thinnas-teng leftcurlbelow-teng rightcurlbelowright-teng]' by [carrierlongBelow-teng.lambe dottriplebelow-teng.lambe dotdblbelow-teng.lambe dotbelow-teng.lambe rightcurlbelow-teng.lambe thinnas-teng.lambe leftcurlbelow-teng.lambe rightcurlbelowright-teng.lambe];\012} lambe_acc_second;\012\012lookup macron_silme { # macron for silme\012	sub [silme-teng aare-teng] macron-teng.short' by macron-teng.silme;\012} macron_silme;\012\012lookup sarince { # Sarince connection\012	sub @sarinceTop0' @accAll @accAll @accAll @accAll @accAll @accAll @accAll sarincefina-teng by @sarinceTop1;\012	sub @sarinceTop0' @accAll @accAll @accAll @accAll @accAll @accAll sarincefina-teng by @sarinceTop1;\012	sub @sarinceTop0' @accAll @accAll @accAll @accAll @accAll sarincefina-teng by @sarinceTop1;\012	sub @sarinceTop0' @accAll @accAll @accAll @accAll sarincefina-teng by @sarinceTop1;\012	sub @sarinceTop0' @accAll @accAll @accAll sarincefina-teng by @sarinceTop1;\012	sub @sarinceTop0' @accAll @accAll sarincefina-teng by @sarinceTop1;\012	sub @sarinceTop0' @accAll sarincefina-teng by @sarinceTop1;\012	sub @sarinceTop0' sarincefina-teng by @sarinceTop1;\012\012	sub @sarinceTop1 @accAll @accAll @accAll @accAll @accAll @accAll @accAll sarincefina-teng' by sarincefina-teng.top;\012	sub @sarinceTop1 @accAll @accAll @accAll @accAll @accAll @accAll sarincefina-teng' by sarincefina-teng.top;\012	sub @sarinceTop1 @accAll @accAll @accAll @accAll @accAll sarincefina-teng' by sarincefina-teng.top;\012	sub @sarinceTop1 @accAll @accAll @accAll @accAll sarincefina-teng' by sarincefina-teng.top;\012	sub @sarinceTop1 @accAll @accAll @accAll sarincefina-teng' by sarincefina-teng.top;\012	sub @sarinceTop1 @accAll @accAll sarincefina-teng' by sarincefina-teng.top;\012	sub @sarinceTop1 @accAll sarincefina-teng' by sarincefina-teng.top;\012	sub @sarinceTop1 sarincefina-teng' by sarincefina-teng.top;\012\012	sub @sarinceBottom0' @accAll @accAll @accAll @accAll @accAll @accAll @accAll sarincefina-teng by @sarinceBottom1;\012	sub @sarinceBottom0' @accAll @accAll @accAll @accAll @accAll @accAll sarincefina-teng by @sarinceBottom1;\012	sub @sarinceBottom0' @accAll @accAll @accAll @accAll @accAll sarincefina-teng by @sarinceBottom1;\012	sub @sarinceBottom0' @accAll @accAll @accAll @accAll sarincefina-teng by @sarinceBottom1;\012	sub @sarinceBottom0' @accAll @accAll @accAll sarincefina-teng by @sarinceBottom1;\012	sub @sarinceBottom0' @accAll @accAll sarincefina-teng by @sarinceBottom1;\012	sub @sarinceBottom0' @accAll sarincefina-teng by @sarinceBottom1;\012	sub @sarinceBottom0' sarincefina-teng by @sarinceBottom1;\012} sarince;\012\012lookup dotinsideContextual {\012	sub dottedCircle' dotinside-teng by dottedCircle.circle;\012} dotinsideContextual;\012\012lookup dotinsideLigature {\012	sub vala-teng dotinside-teng by vala_dotinside-teng;\012	sub vilya-teng dotinside-teng by vilya_dotinside-teng;\012} dotinsideLigature;\012";
+code = "lookup base_transform { # tengwa (base letter) alternates\012	sub hyarmen-teng' @accBottom @accBottom @accBottom @accTop by hyarmen-teng.top;\012	sub hyarmen-teng' @accBottom @accBottom @accTop by hyarmen-teng.top;\012	sub hyarmen-teng' @accBottom @accTop by hyarmen-teng.top;\012	sub hyarmen-teng' @accTop by hyarmen-teng.top;\012\012	sub [roomen-teng arda-teng]' @accTop @accTop @accTop @accBottom by [roomen-teng.bottom arda-teng.bottom];\012	sub [roomen-teng arda-teng]' @accTop @accTop @accBottom by [roomen-teng.bottom arda-teng.bottom];\012	sub [roomen-teng arda-teng]' @accTop @accBottom by [roomen-teng.bottom arda-teng.bottom];\012	sub [roomen-teng arda-teng]' @accBottom by [roomen-teng.bottom arda-teng.bottom];\012\012	sub lambe-teng' @accTop @accTop @accTop @accBottom by lambe-teng.big;\012	sub lambe-teng' @accTop @accTop @accBottom by lambe-teng.big;\012	sub lambe-teng' @accTop @accBottom by lambe-teng.big;\012	sub lambe-teng' @accBottom by lambe-teng.big;\012\012	sub alda-teng' @accTop @accTop @accTop @accBottom by alda-teng.big;\012	sub alda-teng' @accTop @accTop @accBottom by alda-teng.big;\012	sub alda-teng' @accTop @accBottom by alda-teng.big;\012	sub alda-teng' @accBottom by alda-teng.big;\012} base_transform;\012\012lookup wide_acc { # Wide accents in general\012	sub @wide @accTop @accTop [macron-teng macronbelow-teng wave-teng]' by [macron-teng.wide macronbelow-teng.wide wave-teng.wide];\012	sub @wide @accTop [macron-teng macronbelow-teng wave-teng]' by [macron-teng.wide macronbelow-teng.wide wave-teng.wide];\012	sub @wide [macron-teng macronbelow-teng wave-teng]' by [macron-teng.wide macronbelow-teng.wide wave-teng.wide];\012} wide_acc;\012\012lookup narrow_acc { # Narrow accents in general\012	sub [thuule-teng formen-teng tincoascent-teng parmaascent-teng hwlowdham-teng sarincefina-teng sarincefina2-teng sarincefina2-teng.top sarincefina3-teng sarincefina3-teng.top sarincefina-teng.top ] @accTop [macron-teng wave-teng]' by [macron-teng.shortR wave-teng.shortR];\012	sub [thuule-teng formen-teng tincoascent-teng parmaascent-teng hwlowdham-teng sarincefina-teng sarincefina2-teng sarincefina2-teng.top sarincefina3-teng sarincefina3-teng.top sarincefina-teng.top ] [tilde-teng macron-teng wave-teng]' by [tilde-teng.short macron-teng.shortR wave-teng.shortR];\012	sub [harma-teng hwesta-teng calmaascent-teng quesseascent-teng hwestasindar-teng] @accTop [macron-teng wave-teng]' by [macron-teng.shortL wave-teng.shortL];\012	sub [harma-teng hwesta-teng calmaascent-teng quesseascent-teng hwestasindar-teng] [macron-teng wave-teng]' by [macron-teng.shortL wave-teng.shortL];\012	sub [hyarmen-teng.top silme-teng aare-teng carrierlong-teng halla-teng carriershort-teng] [tilde-teng macron-teng wave-teng]' by [tilde-teng.short macron-teng.short wave-teng.short];\012	sub [roomen-teng.bottom arda-teng.bottom alda-teng.big] @accTop @accTop @accTop @accTop macronbelow-teng' by macronbelow-teng.short;\012	sub [roomen-teng.bottom arda-teng.bottom alda-teng.big] @accTop @accTop macronbelow-teng' by macronbelow-teng.short;\012	sub [roomen-teng.bottom arda-teng.bottom alda-teng.big] @accTop macronbelow-teng' by macronbelow-teng.short;\012	sub [roomen-teng.bottom arda-teng.bottom alda-teng.big] macronbelow-teng' by macronbelow-teng.short;\012} narrow_acc;\012\012lookup double_acc { # Diacritical ligatures\012	sub acute-teng acute-teng by acute_acute-teng;\012	sub leftcurl-teng leftcurl-teng by leftcurl_leftcurl-teng;\012	sub rightcurl-teng rightcurl-teng by rightcurl_rightcurl-teng;\012	sub acutebelow-teng acutebelow-teng by acutebelow_acutebelow-teng;\012} double_acc;\012\012lookup carrierLongBelow { # long carrier can become below mark in Old English\012	sub zerowidthjoiner carrierlong-teng by carrierlongBelow-teng;\012} carrierLongBelow;\012\012lookup lambe_acc { # Macron for lambe\012	sub lambe-teng.big @accTop @accTop @accTop macronbelow-teng' by macronbelow-teng.lambe;\012	sub lambe-teng.big @accTop @accTop macronbelow-teng' by macronbelow-teng.lambe;\012	sub lambe-teng.big @accTop macronbelow-teng' by macronbelow-teng.lambe;\012	sub lambe-teng.big macronbelow-teng' by macronbelow-teng.lambe;\012} lambe_acc;\012\012lookup lambe_acc_second {\012	sub [lambe-teng alda-teng lambe-teng.big alda-teng.big lambe_sarincefina-teng.rlig alda_sarincefina-teng.rlig] @accBottom [carrierlongBelow-teng dottriplebelow-teng dotdblbelow-teng dotbelow-teng rightcurlbelow-teng thinnas-teng leftcurlbelow-teng rightcurlbelowright-teng]' by [carrierlongBelow-teng.lambe dottriplebelow-teng.lambe dotdblbelow-teng.lambe dotbelow-teng.lambe rightcurlbelow-teng.lambe thinnas-teng.lambe leftcurlbelow-teng.lambe rightcurlbelowright-teng.lambe];\012} lambe_acc_second;\012\012lookup macron_silme { # macron for silme\012	sub [silme-teng aare-teng] macron-teng.short' by macron-teng.silme;\012} macron_silme;\012\012lookup sarince { # Sarince connection\012	sub @sarinceTop0' @accAll @accAll @accAll @accAll @accAll @accAll @accAll sarincefina-teng by @sarinceTop1;\012	sub @sarinceTop0' @accAll @accAll @accAll @accAll @accAll @accAll sarincefina-teng by @sarinceTop1;\012	sub @sarinceTop0' @accAll @accAll @accAll @accAll @accAll sarincefina-teng by @sarinceTop1;\012	sub @sarinceTop0' @accAll @accAll @accAll @accAll sarincefina-teng by @sarinceTop1;\012	sub @sarinceTop0' @accAll @accAll @accAll sarincefina-teng by @sarinceTop1;\012	sub @sarinceTop0' @accAll @accAll sarincefina-teng by @sarinceTop1;\012	sub @sarinceTop0' @accAll sarincefina-teng by @sarinceTop1;\012	sub @sarinceTop0' sarincefina-teng by @sarinceTop1;\012\012	sub @sarinceTop1 @accAll @accAll @accAll @accAll @accAll @accAll @accAll sarincefina-teng' by sarincefina-teng.top;\012	sub @sarinceTop1 @accAll @accAll @accAll @accAll @accAll @accAll sarincefina-teng' by sarincefina-teng.top;\012	sub @sarinceTop1 @accAll @accAll @accAll @accAll @accAll sarincefina-teng' by sarincefina-teng.top;\012	sub @sarinceTop1 @accAll @accAll @accAll @accAll sarincefina-teng' by sarincefina-teng.top;\012	sub @sarinceTop1 @accAll @accAll @accAll sarincefina-teng' by sarincefina-teng.top;\012	sub @sarinceTop1 @accAll @accAll sarincefina-teng' by sarincefina-teng.top;\012	sub @sarinceTop1 @accAll sarincefina-teng' by sarincefina-teng.top;\012	sub @sarinceTop1 sarincefina-teng' by sarincefina-teng.top;\012\012	sub @sarinceBottom0' @accAll @accAll @accAll @accAll @accAll @accAll @accAll sarincefina-teng by @sarinceBottom1;\012	sub @sarinceBottom0' @accAll @accAll @accAll @accAll @accAll @accAll sarincefina-teng by @sarinceBottom1;\012	sub @sarinceBottom0' @accAll @accAll @accAll @accAll @accAll sarincefina-teng by @sarinceBottom1;\012	sub @sarinceBottom0' @accAll @accAll @accAll @accAll sarincefina-teng by @sarinceBottom1;\012	sub @sarinceBottom0' @accAll @accAll @accAll sarincefina-teng by @sarinceBottom1;\012	sub @sarinceBottom0' @accAll @accAll sarincefina-teng by @sarinceBottom1;\012	sub @sarinceBottom0' @accAll sarincefina-teng by @sarinceBottom1;\012	sub @sarinceBottom0' sarincefina-teng by @sarinceBottom1;\012} sarince;\012\012lookup dotinsideContextual {\012	sub dottedCircle' dotinside-teng by dottedCircle.circle;\012} dotinsideContextual;\012\012lookup dotinsideLigature {\012	sub vala-teng dotinside-teng by vala_dotinside-teng;\012	sub vilya-teng dotinside-teng by vilya_dotinside-teng;\012\tsub rightcurl-teng dotinside-teng by rightcurl_dotinside-teng;\012\tsub leftcurl-teng dotinside-teng by leftcurl_dotinside-teng;\012} dotinsideLigature;\012";
 name = ccmp;
 },
 {
@@ -158,27 +153,6 @@ notes = "Name: Alternate yanta-like caron";
 {
 code = "# supporting top-bar numerals via macron, not just ss01\012@macronNums_0 = [zero-teng one-teng two-teng three-teng four-teng five-teng six-teng seven-teng eight-teng nine-teng ten-teng eleven-teng twelve-teng];\012\012@macronNums_1 = [zero-teng.ss01 one-teng.ss01 two-teng.ss01 three-teng.ss01 four-teng.ss01 five-teng.ss01 six-teng.ss01 seven-teng.ss01 eight-teng.ss01 nine-teng.ss01 ten-teng.ss01 eleven-teng.ss01 twelve-teng.ss01];\012\012lookup numeralMacron {\012	sub @macronNums_0' macron-teng by @macronNums_1; # initial\012	sub @macronNums_1 @macronNums_0' by  @macronNums_1; # following\012} numeralMacron;\012\012lookup fourMacronSpaced {\012	sub four-teng.ss01' [seven-teng.ss01 eight-teng.ss01 nine-teng.ss01] by four-teng.ss01.wide;\012} fourMacronSpaced;\012";
 name = calt;
-},
-{
-code = "pos @MMK_L_Round @accAll @accAll @accAll @accAll @accAll' -30 @MMK_R_hyarmen;\012pos @MMK_L_Round @accAll @accAll @accAll @accAll' -30 @MMK_R_hyarmen;\012pos @MMK_L_Round @accAll @accAll @accAll' -30 @MMK_R_hyarmen;\012pos @MMK_L_Round @accAll @accAll' -30 @MMK_R_hyarmen;\012pos @MMK_L_Round @accAll' -30 @MMK_R_hyarmen;\012pos @MMK_L_Round @accAll @accAll @accAll @accAll @accAll' -30 @MMK_R_yanta;\012pos @MMK_L_Round @accAll @accAll @accAll @accAll' -30 @MMK_R_yanta;\012pos @MMK_L_Round @accAll @accAll @accAll' -30 @MMK_R_yanta;\012pos @MMK_L_Round @accAll @accAll' -30 @MMK_R_yanta;\012pos @MMK_L_Round @accAll' -30 @MMK_R_yanta;\012pos @MMK_L_Round @accAll @accAll @accAll @accAll @accAll' -30 hwbombadil-teng;\012pos @MMK_L_Round @accAll @accAll @accAll @accAll' -30 hwbombadil-teng;\012pos @MMK_L_Round @accAll @accAll @accAll' -30 hwbombadil-teng;\012pos @MMK_L_Round @accAll @accAll' -30 hwbombadil-teng;\012pos @MMK_L_Round @accAll' -30 hwbombadil-teng;\012pos @MMK_L_RoundBottom @accAll @accAll @accAll @accAll @accAll' 20 @MMK_R_hyarmen;\012pos @MMK_L_RoundBottom @accAll @accAll @accAll @accAll' 20 @MMK_R_hyarmen;\012pos @MMK_L_RoundBottom @accAll @accAll @accAll' 20 @MMK_R_hyarmen;\012pos @MMK_L_RoundBottom @accAll @accAll' 20 @MMK_R_hyarmen;\012pos @MMK_L_RoundBottom @accAll' 20 @MMK_R_hyarmen;\012pos @MMK_L_RoundBottom @accAll @accAll @accAll @accAll @accAll' -20 @MMK_R_roomen;\012pos @MMK_L_RoundBottom @accAll @accAll @accAll @accAll' -20 @MMK_R_roomen;\012pos @MMK_L_RoundBottom @accAll @accAll @accAll' -20 @MMK_R_roomen;\012pos @MMK_L_RoundBottom @accAll @accAll' -20 @MMK_R_roomen;\012pos @MMK_L_RoundBottom @accAll' -20 @MMK_R_roomen;\012pos @MMK_L_RoundBottom @accAll @accAll @accAll @accAll @accAll' 20 @MMK_R_yanta;\012pos @MMK_L_RoundBottom @accAll @accAll @accAll @accAll' 20 @MMK_R_yanta;\012pos @MMK_L_RoundBottom @accAll @accAll @accAll' 20 @MMK_R_yanta;\012pos @MMK_L_RoundBottom @accAll @accAll' 20 @MMK_R_yanta;\012pos @MMK_L_RoundBottom @accAll' 20 @MMK_R_yanta;\012pos @MMK_L_RoundBottom @accAll @accAll @accAll @accAll @accAll' 40 period;\012pos @MMK_L_RoundBottom @accAll @accAll @accAll @accAll' 40 period;\012pos @MMK_L_RoundBottom @accAll @accAll @accAll' 40 period;\012pos @MMK_L_RoundBottom @accAll @accAll' 40 period;\012pos @MMK_L_RoundBottom @accAll' 40 period;\012pos @MMK_L_RoundBottom @accAll @accAll @accAll @accAll @accAll' -40 quoteleft-teng;\012pos @MMK_L_RoundBottom @accAll @accAll @accAll @accAll' -40 quoteleft-teng;\012pos @MMK_L_RoundBottom @accAll @accAll @accAll' -40 quoteleft-teng;\012pos @MMK_L_RoundBottom @accAll @accAll' -40 quoteleft-teng;\012pos @MMK_L_RoundBottom @accAll' -40 quoteleft-teng;\012pos @MMK_L_calma @accAll @accAll @accAll @accAll @accAll' -20 @MMK_R_hyarmen;\012pos @MMK_L_calma @accAll @accAll @accAll @accAll' -20 @MMK_R_hyarmen;\012pos @MMK_L_calma @accAll @accAll @accAll' -20 @MMK_R_hyarmen;\012pos @MMK_L_calma @accAll @accAll' -20 @MMK_R_hyarmen;\012pos @MMK_L_calma @accAll' -20 @MMK_R_hyarmen;\012pos @MMK_L_calma @accAll @accAll @accAll @accAll @accAll' -20 @MMK_R_yanta;\012pos @MMK_L_calma @accAll @accAll @accAll @accAll' -20 @MMK_R_yanta;\012pos @MMK_L_calma @accAll @accAll @accAll' -20 @MMK_R_yanta;\012pos @MMK_L_calma @accAll @accAll' -20 @MMK_R_yanta;\012pos @MMK_L_calma @accAll' -20 @MMK_R_yanta;\012pos @MMK_L_calmaascent @accAll @accAll @accAll @accAll @accAll' 20 @MMK_R_tincoascent;\012pos @MMK_L_calmaascent @accAll @accAll @accAll @accAll' 20 @MMK_R_tincoascent;\012pos @MMK_L_calmaascent @accAll @accAll @accAll' 20 @MMK_R_tincoascent;\012pos @MMK_L_calmaascent @accAll @accAll' 20 @MMK_R_tincoascent;\012pos @MMK_L_calmaascent @accAll' 20 @MMK_R_tincoascent;\012pos @MMK_L_calmaascent @accAll @accAll @accAll @accAll @accAll' -20 @MMK_R_yanta;\012pos @MMK_L_calmaascent @accAll @accAll @accAll @accAll' -20 @MMK_R_yanta;\012pos @MMK_L_calmaascent @accAll @accAll @accAll' -20 @MMK_R_yanta;\012pos @MMK_L_calmaascent @accAll @accAll' -20 @MMK_R_yanta;\012pos @MMK_L_calmaascent @accAll' -20 @MMK_R_yanta;\012pos @MMK_L_harma @accAll @accAll @accAll @accAll @accAll' 20 @MMK_R_hyarmen;\012pos @MMK_L_harma @accAll @accAll @accAll @accAll' 20 @MMK_R_hyarmen;\012pos @MMK_L_harma @accAll @accAll @accAll' 20 @MMK_R_hyarmen;\012pos @MMK_L_harma @accAll @accAll' 20 @MMK_R_hyarmen;\012pos @MMK_L_harma @accAll' 20 @MMK_R_hyarmen;\012pos @MMK_L_harma @accAll @accAll @accAll @accAll @accAll' -20 @MMK_R_roomen;\012pos @MMK_L_harma @accAll @accAll @accAll @accAll' -20 @MMK_R_roomen;\012pos @MMK_L_harma @accAll @accAll @accAll' -20 @MMK_R_roomen;\012pos @MMK_L_harma @accAll @accAll' -20 @MMK_R_roomen;\012pos @MMK_L_harma @accAll' -20 @MMK_R_roomen;\012pos @MMK_L_hyarmen @accAll @accAll @accAll @accAll @accAll' -20 @MMK_R_Round;\012pos @MMK_L_hyarmen @accAll @accAll @accAll @accAll' -20 @MMK_R_Round;\012pos @MMK_L_hyarmen @accAll @accAll @accAll' -20 @MMK_R_Round;\012pos @MMK_L_hyarmen @accAll @accAll' -20 @MMK_R_Round;\012pos @MMK_L_hyarmen @accAll' -20 @MMK_R_Round;\012pos @MMK_L_hyarmen @accAll @accAll @accAll @accAll @accAll' 20 @MMK_R_hyarmen;\012pos @MMK_L_hyarmen @accAll @accAll @accAll @accAll' 20 @MMK_R_hyarmen;\012pos @MMK_L_hyarmen @accAll @accAll @accAll' 20 @MMK_R_hyarmen;\012pos @MMK_L_hyarmen @accAll @accAll' 20 @MMK_R_hyarmen;\012pos @MMK_L_hyarmen @accAll' 20 @MMK_R_hyarmen;\012pos @MMK_L_hyarmen @accAll @accAll @accAll @accAll @accAll' -20 @MMK_R_quesse;\012pos @MMK_L_hyarmen @accAll @accAll @accAll @accAll' -20 @MMK_R_quesse;\012pos @MMK_L_hyarmen @accAll @accAll @accAll' -20 @MMK_R_quesse;\012pos @MMK_L_hyarmen @accAll @accAll' -20 @MMK_R_quesse;\012pos @MMK_L_hyarmen @accAll' -20 @MMK_R_quesse;\012pos @MMK_L_hyarmen @accAll @accAll @accAll @accAll @accAll' -50 @MMK_R_roomen;\012pos @MMK_L_hyarmen @accAll @accAll @accAll @accAll' -50 @MMK_R_roomen;\012pos @MMK_L_hyarmen @accAll @accAll @accAll' -50 @MMK_R_roomen;\012pos @MMK_L_hyarmen @accAll @accAll' -50 @MMK_R_roomen;\012pos @MMK_L_hyarmen @accAll' -50 @MMK_R_roomen;\012pos @MMK_L_hyarmen @accAll @accAll @accAll @accAll @accAll' -20 @MMK_R_tinco;\012pos @MMK_L_hyarmen @accAll @accAll @accAll @accAll' -20 @MMK_R_tinco;\012pos @MMK_L_hyarmen @accAll @accAll @accAll' -20 @MMK_R_tinco;\012pos @MMK_L_hyarmen @accAll @accAll' -20 @MMK_R_tinco;\012pos @MMK_L_hyarmen @accAll' -20 @MMK_R_tinco;\012pos @MMK_L_hyarmen @accAll @accAll @accAll @accAll @accAll' -20 @MMK_R_tincoascent;\012pos @MMK_L_hyarmen @accAll @accAll @accAll @accAll' -20 @MMK_R_tincoascent;\012pos @MMK_L_hyarmen @accAll @accAll @accAll' -20 @MMK_R_tincoascent;\012pos @MMK_L_hyarmen @accAll @accAll' -20 @MMK_R_tincoascent;\012pos @MMK_L_hyarmen @accAll' -20 @MMK_R_tincoascent;\012pos @MMK_L_hyarmen @accAll @accAll @accAll @accAll @accAll' 20 @MMK_R_yanta;\012pos @MMK_L_hyarmen @accAll @accAll @accAll @accAll' 20 @MMK_R_yanta;\012pos @MMK_L_hyarmen @accAll @accAll @accAll' 20 @MMK_R_yanta;\012pos @MMK_L_hyarmen @accAll @accAll' 20 @MMK_R_yanta;\012pos @MMK_L_hyarmen @accAll' 20 @MMK_R_yanta;\012pos @MMK_L_hyarmen @accAll @accAll @accAll @accAll @accAll' 40 period;\012pos @MMK_L_hyarmen @accAll @accAll @accAll @accAll' 40 period;\012pos @MMK_L_hyarmen @accAll @accAll @accAll' 40 period;\012pos @MMK_L_hyarmen @accAll @accAll' 40 period;\012pos @MMK_L_hyarmen @accAll' 40 period;\012pos @MMK_L_hyarmen @accAll @accAll @accAll @accAll @accAll' 20 quchris-teng;\012pos @MMK_L_hyarmen @accAll @accAll @accAll @accAll' 20 quchris-teng;\012pos @MMK_L_hyarmen @accAll @accAll @accAll' 20 quchris-teng;\012pos @MMK_L_hyarmen @accAll @accAll' 20 quchris-teng;\012pos @MMK_L_hyarmen @accAll' 20 quchris-teng;\012pos @MMK_L_hyarmen @accAll @accAll @accAll @accAll @accAll' -80 quoteleft-teng;\012pos @MMK_L_hyarmen @accAll @accAll @accAll @accAll' -80 quoteleft-teng;\012pos @MMK_L_hyarmen @accAll @accAll @accAll' -80 quoteleft-teng;\012pos @MMK_L_hyarmen @accAll @accAll' -80 quoteleft-teng;\012pos @MMK_L_hyarmen @accAll' -80 quoteleft-teng;\012pos @MMK_L_mh @accAll @accAll @accAll @accAll @accAll' 20 aare-teng;\012pos @MMK_L_mh @accAll @accAll @accAll @accAll' 20 aare-teng;\012pos @MMK_L_mh @accAll @accAll @accAll' 20 aare-teng;\012pos @MMK_L_mh @accAll @accAll' 20 aare-teng;\012pos @MMK_L_mh @accAll' 20 aare-teng;\012pos @MMK_L_mh @accAll @accAll @accAll @accAll @accAll' 40 period;\012pos @MMK_L_mh @accAll @accAll @accAll @accAll' 40 period;\012pos @MMK_L_mh @accAll @accAll @accAll' 40 period;\012pos @MMK_L_mh @accAll @accAll' 40 period;\012pos @MMK_L_mh @accAll' 40 period;\012pos @MMK_L_roomen @accAll @accAll @accAll @accAll @accAll' -50 @MMK_R_hyarmen;\012pos @MMK_L_roomen @accAll @accAll @accAll @accAll' -50 @MMK_R_hyarmen;\012pos @MMK_L_roomen @accAll @accAll @accAll' -50 @MMK_R_hyarmen;\012pos @MMK_L_roomen @accAll @accAll' -50 @MMK_R_hyarmen;\012pos @MMK_L_roomen @accAll' -50 @MMK_R_hyarmen;\012pos @MMK_L_roomen @accAll @accAll @accAll @accAll @accAll' -40 @MMK_R_yanta;\012pos @MMK_L_roomen @accAll @accAll @accAll @accAll' -40 @MMK_R_yanta;\012pos @MMK_L_roomen @accAll @accAll @accAll' -40 @MMK_R_yanta;\012pos @MMK_L_roomen @accAll @accAll' -40 @MMK_R_yanta;\012pos @MMK_L_roomen @accAll' -40 @MMK_R_yanta;\012pos @MMK_L_roomen @accAll @accAll @accAll @accAll @accAll' -30 hwbombadil-teng;\012pos @MMK_L_roomen @accAll @accAll @accAll @accAll' -30 hwbombadil-teng;\012pos @MMK_L_roomen @accAll @accAll @accAll' -30 hwbombadil-teng;\012pos @MMK_L_roomen @accAll @accAll' -30 hwbombadil-teng;\012pos @MMK_L_roomen @accAll' -30 hwbombadil-teng;\012pos @MMK_L_roomen @accAll @accAll @accAll @accAll @accAll' -40 period;\012pos @MMK_L_roomen @accAll @accAll @accAll @accAll' -40 period;\012pos @MMK_L_roomen @accAll @accAll @accAll' -40 period;\012pos @MMK_L_roomen @accAll @accAll' -40 period;\012pos @MMK_L_roomen @accAll' -40 period;\012pos @MMK_L_sarinceBottom @accAll @accAll @accAll @accAll @accAll' -100 quoteleft-teng;\012pos @MMK_L_sarinceBottom @accAll @accAll @accAll @accAll' -100 quoteleft-teng;\012pos @MMK_L_sarinceBottom @accAll @accAll @accAll' -100 quoteleft-teng;\012pos @MMK_L_sarinceBottom @accAll @accAll' -100 quoteleft-teng;\012pos @MMK_L_sarinceBottom @accAll' -100 quoteleft-teng;\012pos @MMK_L_sarinceMid @accAll @accAll @accAll @accAll @accAll' -80 quoteleft-teng;\012pos @MMK_L_sarinceMid @accAll @accAll @accAll @accAll' -80 quoteleft-teng;\012pos @MMK_L_sarinceMid @accAll @accAll @accAll' -80 quoteleft-teng;\012pos @MMK_L_sarinceMid @accAll @accAll' -80 quoteleft-teng;\012pos @MMK_L_sarinceMid @accAll' -80 quoteleft-teng;\012pos @MMK_L_sarinceTop @accAll @accAll @accAll @accAll @accAll' -70 period;\012pos @MMK_L_sarinceTop @accAll @accAll @accAll @accAll' -70 period;\012pos @MMK_L_sarinceTop @accAll @accAll @accAll' -70 period;\012pos @MMK_L_sarinceTop @accAll @accAll' -70 period;\012pos @MMK_L_sarinceTop @accAll' -70 period;\012pos @MMK_L_vaiya @accAll @accAll @accAll @accAll @accAll' 20 @MMK_R_hyarmen;\012pos @MMK_L_vaiya @accAll @accAll @accAll @accAll' 20 @MMK_R_hyarmen;\012pos @MMK_L_vaiya @accAll @accAll @accAll' 20 @MMK_R_hyarmen;\012pos @MMK_L_vaiya @accAll @accAll' 20 @MMK_R_hyarmen;\012pos @MMK_L_vaiya @accAll' 20 @MMK_R_hyarmen;\012pos @MMK_L_vaiya @accAll @accAll @accAll @accAll @accAll' -40 @MMK_R_roomen;\012pos @MMK_L_vaiya @accAll @accAll @accAll @accAll' -40 @MMK_R_roomen;\012pos @MMK_L_vaiya @accAll @accAll @accAll' -40 @MMK_R_roomen;\012pos @MMK_L_vaiya @accAll @accAll' -40 @MMK_R_roomen;\012pos @MMK_L_vaiya @accAll' -40 @MMK_R_roomen;\012pos @MMK_L_vaiya @accAll @accAll @accAll @accAll @accAll' 20 @MMK_R_yanta;\012pos @MMK_L_vaiya @accAll @accAll @accAll @accAll' 20 @MMK_R_yanta;\012pos @MMK_L_vaiya @accAll @accAll @accAll' 20 @MMK_R_yanta;\012pos @MMK_L_vaiya @accAll @accAll' 20 @MMK_R_yanta;\012pos @MMK_L_vaiya @accAll' 20 @MMK_R_yanta;\012pos @MMK_L_vaiya @accAll @accAll @accAll @accAll @accAll' 40 period;\012pos @MMK_L_vaiya @accAll @accAll @accAll @accAll' 40 period;\012pos @MMK_L_vaiya @accAll @accAll @accAll' 40 period;\012pos @MMK_L_vaiya @accAll @accAll' 40 period;\012pos @MMK_L_vaiya @accAll' 40 period;\012pos @MMK_L_vaiya @accAll @accAll @accAll @accAll @accAll' -60 quoteleft-teng;\012pos @MMK_L_vaiya @accAll @accAll @accAll @accAll' -60 quoteleft-teng;\012pos @MMK_L_vaiya @accAll @accAll @accAll' -60 quoteleft-teng;\012pos @MMK_L_vaiya @accAll @accAll' -60 quoteleft-teng;\012pos @MMK_L_vaiya @accAll' -60 quoteleft-teng;\012pos aare-teng @accAll @accAll @accAll @accAll @accAll' -20 @MMK_R_roomen;\012pos aare-teng @accAll @accAll @accAll @accAll' -20 @MMK_R_roomen;\012pos aare-teng @accAll @accAll @accAll' -20 @MMK_R_roomen;\012pos aare-teng @accAll @accAll' -20 @MMK_R_roomen;\012pos aare-teng @accAll' -20 @MMK_R_roomen;\012pos aare-teng @accAll @accAll @accAll @accAll @accAll' -20 aareturned-teng;\012pos aare-teng @accAll @accAll @accAll @accAll' -20 aareturned-teng;\012pos aare-teng @accAll @accAll @accAll' -20 aareturned-teng;\012pos aare-teng @accAll @accAll' -20 aareturned-teng;\012pos aare-teng @accAll' -20 aareturned-teng;\012pos aare-teng @accAll @accAll @accAll @accAll @accAll' 40 period;\012pos aare-teng @accAll @accAll @accAll @accAll' 40 period;\012pos aare-teng @accAll @accAll @accAll' 40 period;\012pos aare-teng @accAll @accAll' 40 period;\012pos aare-teng @accAll' 40 period;\012pos alda-teng @accAll @accAll @accAll @accAll @accAll' -20 @MMK_R_Round;\012pos alda-teng @accAll @accAll @accAll @accAll' -20 @MMK_R_Round;\012pos alda-teng @accAll @accAll @accAll' -20 @MMK_R_Round;\012pos alda-teng @accAll @accAll' -20 @MMK_R_Round;\012pos alda-teng @accAll' -20 @MMK_R_Round;\012pos carrierschwa-teng @accAll @accAll @accAll @accAll @accAll' -40 @MMK_R_Round;\012pos carrierschwa-teng @accAll @accAll @accAll @accAll' -40 @MMK_R_Round;\012pos carrierschwa-teng @accAll @accAll @accAll' -40 @MMK_R_Round;\012pos carrierschwa-teng @accAll @accAll' -40 @MMK_R_Round;\012pos carrierschwa-teng @accAll' -40 @MMK_R_Round;\012pos carrierschwa-teng @accAll @accAll @accAll @accAll @accAll' -50 @MMK_R_hyarmen;\012pos carrierschwa-teng @accAll @accAll @accAll @accAll' -50 @MMK_R_hyarmen;\012pos carrierschwa-teng @accAll @accAll @accAll' -50 @MMK_R_hyarmen;\012pos carrierschwa-teng @accAll @accAll' -50 @MMK_R_hyarmen;\012pos carrierschwa-teng @accAll' -50 @MMK_R_hyarmen;\012pos carrierschwa-teng @accAll @accAll @accAll @accAll @accAll' -30 aare-teng;\012pos carrierschwa-teng @accAll @accAll @accAll @accAll' -30 aare-teng;\012pos carrierschwa-teng @accAll @accAll @accAll' -30 aare-teng;\012pos carrierschwa-teng @accAll @accAll' -30 aare-teng;\012pos carrierschwa-teng @accAll' -30 aare-teng;\012pos carrierschwa-teng @accAll @accAll @accAll @accAll @accAll' -60 period;\012pos carrierschwa-teng @accAll @accAll @accAll @accAll' -60 period;\012pos carrierschwa-teng @accAll @accAll @accAll' -60 period;\012pos carrierschwa-teng @accAll @accAll' -60 period;\012pos carrierschwa-teng @accAll' -60 period;\012pos carrierschwa-teng @accAll @accAll @accAll @accAll @accAll' -40 quchris-teng;\012pos carrierschwa-teng @accAll @accAll @accAll @accAll' -40 quchris-teng;\012pos carrierschwa-teng @accAll @accAll @accAll' -40 quchris-teng;\012pos carrierschwa-teng @accAll @accAll' -40 quchris-teng;\012pos carrierschwa-teng @accAll' -40 quchris-teng;\012pos carrierschwa-teng @accAll @accAll @accAll @accAll @accAll' -30 silme-teng;\012pos carrierschwa-teng @accAll @accAll @accAll @accAll' -30 silme-teng;\012pos carrierschwa-teng @accAll @accAll @accAll' -30 silme-teng;\012pos carrierschwa-teng @accAll @accAll' -30 silme-teng;\012pos carrierschwa-teng @accAll' -30 silme-teng;\012pos carrierschwa-teng @accAll @accAll @accAll @accAll @accAll' -30 silmeturned-teng;\012pos carrierschwa-teng @accAll @accAll @accAll @accAll' -30 silmeturned-teng;\012pos carrierschwa-teng @accAll @accAll @accAll' -30 silmeturned-teng;\012pos carrierschwa-teng @accAll @accAll' -30 silmeturned-teng;\012pos carrierschwa-teng @accAll' -30 silmeturned-teng;\012pos four-teng @accAll @accAll @accAll @accAll @accAll' 150 @MMK_R_seven;\012pos four-teng @accAll @accAll @accAll @accAll' 150 @MMK_R_seven;\012pos four-teng @accAll @accAll @accAll' 150 @MMK_R_seven;\012pos four-teng @accAll @accAll' 150 @MMK_R_seven;\012pos four-teng @accAll' 150 @MMK_R_seven;\012pos halla-teng @accAll @accAll @accAll @accAll @accAll' -20 @MMK_R_yanta;\012pos halla-teng @accAll @accAll @accAll @accAll' -20 @MMK_R_yanta;\012pos halla-teng @accAll @accAll @accAll' -20 @MMK_R_yanta;\012pos halla-teng @accAll @accAll' -20 @MMK_R_yanta;\012pos halla-teng @accAll' -20 @MMK_R_yanta;\012pos hwbombadil-teng @accAll @accAll @accAll @accAll @accAll' -20 @MMK_R_tinco;\012pos hwbombadil-teng @accAll @accAll @accAll @accAll' -20 @MMK_R_tinco;\012pos hwbombadil-teng @accAll @accAll @accAll' -20 @MMK_R_tinco;\012pos hwbombadil-teng @accAll @accAll' -20 @MMK_R_tinco;\012pos hwbombadil-teng @accAll' -20 @MMK_R_tinco;\012pos hwbombadil-teng @accAll @accAll @accAll @accAll @accAll' 40 period;\012pos hwbombadil-teng @accAll @accAll @accAll @accAll' 40 period;\012pos hwbombadil-teng @accAll @accAll @accAll' 40 period;\012pos hwbombadil-teng @accAll @accAll' 40 period;\012pos hwbombadil-teng @accAll' 40 period;\012pos hwbombadil-teng @accAll @accAll @accAll @accAll @accAll' 50 quoteleft-teng;\012pos hwbombadil-teng @accAll @accAll @accAll @accAll' 50 quoteleft-teng;\012pos hwbombadil-teng @accAll @accAll @accAll' 50 quoteleft-teng;\012pos hwbombadil-teng @accAll @accAll' 50 quoteleft-teng;\012pos hwbombadil-teng @accAll' 50 quoteleft-teng;\012pos lambe-teng @accAll @accAll @accAll @accAll @accAll' 30 period;\012pos lambe-teng @accAll @accAll @accAll @accAll' 30 period;\012pos lambe-teng @accAll @accAll @accAll' 30 period;\012pos lambe-teng @accAll @accAll' 30 period;\012pos lambe-teng @accAll' 30 period;\012pos period @accAll @accAll @accAll @accAll @accAll' 30 @MMK_R_hyarmen;\012pos period @accAll @accAll @accAll @accAll' 30 @MMK_R_hyarmen;\012pos period @accAll @accAll @accAll' 30 @MMK_R_hyarmen;\012pos period @accAll @accAll' 30 @MMK_R_hyarmen;\012pos period @accAll' 30 @MMK_R_hyarmen;\012pos period @accAll @accAll @accAll @accAll @accAll' -50 @MMK_R_roomen;\012pos period @accAll @accAll @accAll @accAll' -50 @MMK_R_roomen;\012pos period @accAll @accAll @accAll' -50 @MMK_R_roomen;\012pos period @accAll @accAll' -50 @MMK_R_roomen;\012pos period @accAll' -50 @MMK_R_roomen;\012pos period @accAll @accAll @accAll @accAll @accAll' 40 @MMK_R_yanta;\012pos period @accAll @accAll @accAll @accAll' 40 @MMK_R_yanta;\012pos period @accAll @accAll @accAll' 40 @MMK_R_yanta;\012pos period @accAll @accAll' 40 @MMK_R_yanta;\012pos period @accAll' 40 @MMK_R_yanta;\012pos period @accAll @accAll @accAll @accAll @accAll' 40 quchris-teng;\012pos period @accAll @accAll @accAll @accAll' 40 quchris-teng;\012pos period @accAll @accAll @accAll' 40 quchris-teng;\012pos period @accAll @accAll' 40 quchris-teng;\012pos period @accAll' 40 quchris-teng;\012pos quchris-teng @accAll @accAll @accAll @accAll @accAll' -30 @MMK_R_roomen;\012pos quchris-teng @accAll @accAll @accAll @accAll' -30 @MMK_R_roomen;\012pos quchris-teng @accAll @accAll @accAll' -30 @MMK_R_roomen;\012pos quchris-teng @accAll @accAll' -30 @MMK_R_roomen;\012pos quchris-teng @accAll' -30 @MMK_R_roomen;\012pos quchris-teng @accAll @accAll @accAll @accAll @accAll' -20 hwbombadil-teng;\012pos quchris-teng @accAll @accAll @accAll @accAll' -20 hwbombadil-teng;\012pos quchris-teng @accAll @accAll @accAll' -20 hwbombadil-teng;\012pos quchris-teng @accAll @accAll' -20 hwbombadil-teng;\012pos quchris-teng @accAll' -20 hwbombadil-teng;\012pos quoteleft-teng @accAll @accAll @accAll @accAll @accAll' -50 @MMK_R_Round;\012pos quoteleft-teng @accAll @accAll @accAll @accAll' -50 @MMK_R_Round;\012pos quoteleft-teng @accAll @accAll @accAll' -50 @MMK_R_Round;\012pos quoteleft-teng @accAll @accAll' -50 @MMK_R_Round;\012pos quoteleft-teng @accAll' -50 @MMK_R_Round;\012pos quoteleft-teng @accAll @accAll @accAll @accAll @accAll' -50 @MMK_R_yanta;\012pos quoteleft-teng @accAll @accAll @accAll @accAll' -50 @MMK_R_yanta;\012pos quoteleft-teng @accAll @accAll @accAll' -50 @MMK_R_yanta;\012pos quoteleft-teng @accAll @accAll' -50 @MMK_R_yanta;\012pos quoteleft-teng @accAll' -50 @MMK_R_yanta;\012pos quoteleft-teng @accAll @accAll @accAll @accAll @accAll' -60 aare-teng;\012pos quoteleft-teng @accAll @accAll @accAll @accAll' -60 aare-teng;\012pos quoteleft-teng @accAll @accAll @accAll' -60 aare-teng;\012pos quoteleft-teng @accAll @accAll' -60 aare-teng;\012pos quoteleft-teng @accAll' -60 aare-teng;\012pos quoteleft-teng @accAll @accAll @accAll @accAll @accAll' -30 alda-teng;\012pos quoteleft-teng @accAll @accAll @accAll @accAll' -30 alda-teng;\012pos quoteleft-teng @accAll @accAll @accAll' -30 alda-teng;\012pos quoteleft-teng @accAll @accAll' -30 alda-teng;\012pos quoteleft-teng @accAll' -30 alda-teng;\012pos quoteleft-teng @accAll @accAll @accAll @accAll @accAll' -30 alda-teng.big;\012pos quoteleft-teng @accAll @accAll @accAll @accAll' -30 alda-teng.big;\012pos quoteleft-teng @accAll @accAll @accAll' -30 alda-teng.big;\012pos quoteleft-teng @accAll @accAll' -30 alda-teng.big;\012pos quoteleft-teng @accAll' -30 alda-teng.big;\012pos quoteleft-teng @accAll @accAll @accAll @accAll @accAll' -50 carrierlongAlt-teng;\012pos quoteleft-teng @accAll @accAll @accAll @accAll' -50 carrierlongAlt-teng;\012pos quoteleft-teng @accAll @accAll @accAll' -50 carrierlongAlt-teng;\012pos quoteleft-teng @accAll @accAll' -50 carrierlongAlt-teng;\012pos quoteleft-teng @accAll' -50 carrierlongAlt-teng;\012pos quoteleft-teng @accAll @accAll @accAll @accAll @accAll' 50 hwbombadil-teng;\012pos quoteleft-teng @accAll @accAll @accAll @accAll' 50 hwbombadil-teng;\012pos quoteleft-teng @accAll @accAll @accAll' 50 hwbombadil-teng;\012pos quoteleft-teng @accAll @accAll' 50 hwbombadil-teng;\012pos quoteleft-teng @accAll' 50 hwbombadil-teng;\012pos quoteleft-teng @accAll @accAll @accAll @accAll @accAll' -30 lambe-teng;\012pos quoteleft-teng @accAll @accAll @accAll @accAll' -30 lambe-teng;\012pos quoteleft-teng @accAll @accAll @accAll' -30 lambe-teng;\012pos quoteleft-teng @accAll @accAll' -30 lambe-teng;\012pos quoteleft-teng @accAll' -30 lambe-teng;\012pos quoteleft-teng @accAll @accAll @accAll @accAll @accAll' -30 lambe-teng.big;\012pos quoteleft-teng @accAll @accAll @accAll @accAll' -30 lambe-teng.big;\012pos quoteleft-teng @accAll @accAll @accAll' -30 lambe-teng.big;\012pos quoteleft-teng @accAll @accAll' -30 lambe-teng.big;\012pos quoteleft-teng @accAll' -30 lambe-teng.big;\012pos quoteleft-teng @accAll @accAll @accAll @accAll @accAll' -50 ossereversed-teng;\012pos quoteleft-teng @accAll @accAll @accAll @accAll' -50 ossereversed-teng;\012pos quoteleft-teng @accAll @accAll @accAll' -50 ossereversed-teng;\012pos quoteleft-teng @accAll @accAll' -50 ossereversed-teng;\012pos quoteleft-teng @accAll' -50 ossereversed-teng;\012pos quoteleft-teng @accAll @accAll @accAll @accAll @accAll' -50 quchris-teng;\012pos quoteleft-teng @accAll @accAll @accAll @accAll' -50 quchris-teng;\012pos quoteleft-teng @accAll @accAll @accAll' -50 quchris-teng;\012pos quoteleft-teng @accAll @accAll' -50 quchris-teng;\012pos quoteleft-teng @accAll' -50 quchris-teng;\012pos quoteleft-teng @accAll @accAll @accAll @accAll @accAll' -60 silme-teng;\012pos quoteleft-teng @accAll @accAll @accAll @accAll' -60 silme-teng;\012pos quoteleft-teng @accAll @accAll @accAll' -60 silme-teng;\012pos quoteleft-teng @accAll @accAll' -60 silme-teng;\012pos quoteleft-teng @accAll' -60 silme-teng;\012pos quoteleft-teng @accAll @accAll @accAll @accAll @accAll' -50 wbombadil-teng;\012pos quoteleft-teng @accAll @accAll @accAll @accAll' -50 wbombadil-teng;\012pos quoteleft-teng @accAll @accAll @accAll' -50 wbombadil-teng;\012pos quoteleft-teng @accAll @accAll' -50 wbombadil-teng;\012pos quoteleft-teng @accAll' -50 wbombadil-teng;\012pos silme-teng @accAll @accAll @accAll @accAll @accAll' -20 @MMK_R_yanta;\012pos silme-teng @accAll @accAll @accAll @accAll' -20 @MMK_R_yanta;\012pos silme-teng @accAll @accAll @accAll' -20 @MMK_R_yanta;\012pos silme-teng @accAll @accAll' -20 @MMK_R_yanta;\012pos silme-teng @accAll' -20 @MMK_R_yanta;\012pos silmeturned-teng @accAll @accAll @accAll @accAll @accAll' -30 hwbombadil-teng;\012pos silmeturned-teng @accAll @accAll @accAll @accAll' -30 hwbombadil-teng;\012pos silmeturned-teng @accAll @accAll @accAll' -30 hwbombadil-teng;\012pos silmeturned-teng @accAll @accAll' -30 hwbombadil-teng;\012pos silmeturned-teng @accAll' -30 hwbombadil-teng;\012\012# below not working\012pos @kern_carriers' 130 @kern_curl_double @kern_carriers @kern_dot_triple;\012pos @kern_carriers' 60 @kern_curl_single @kern_carriers @kern_dot_triple;\012pos @kern_carriers' 40 acute_acute-teng @kern_carriers @kern_dot_triple;\012pos @kern_carriers' 20 acute-teng @kern_carriers @kern_dot_triple;\012\012pos @kern_carriers' 40 @kern_curl_double @kern_carriers @kern_curl_double;\012pos @kern_carriers' 40 acute_acute-teng @kern_carriers  acute_acute-teng;\012\012pos @kern_carriers' 400 @kern_carriers;\012";
-name = kern;
-}
-);
-fontMaster = (
-{
-alignmentZones = (
-"{700, 16}",
-"{607, 12}",
-"{400, 22}",
-"{0, -15}",
-"{-300, -16}"
-);
-ascender = 736;
-capHeight = 607;
-customParameters = (
-{
-name = typoAscender;
-value = 736;
 },
 {
 name = typoDescender;
@@ -38470,6 +38444,8 @@ rightMetricsKey = "sarincefina-teng";
 },
 {
 glyphname = "sarincefina-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-04 13:46:45 +0000";
 layers = (
 {
@@ -38683,6 +38659,8 @@ unicode = E058;
 {
 color = 9;
 glyphname = "sarincefina2-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 02:03:04 +0000";
 layers = (
 {
@@ -38930,6 +38908,8 @@ unicode = E05B;
 },
 {
 glyphname = "sarincefina3-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 02:03:28 +0000";
 layers = (
 {
@@ -39369,6 +39349,8 @@ unicode = E05D;
 {
 color = 9;
 glyphname = "sarincefina-teng.short";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-04 13:53:32 +0000";
 layers = (
 {
@@ -39580,6 +39562,8 @@ rightMetricsKey = "sarincefina-teng";
 },
 {
 glyphname = "sarincefina-teng.top";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-04 13:57:48 +0000";
 layers = (
 {
@@ -39793,6 +39777,8 @@ rightMetricsKey = "sarincefina2-teng";
 {
 color = 9;
 glyphname = "sarincefina2-teng.top";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 02:03:12 +0000";
 layers = (
 {
@@ -39859,6 +39845,8 @@ rightMetricsKey = "sarincefina2-teng";
 },
 {
 glyphname = "sarincefina3-teng.top";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 02:03:35 +0000";
 layers = (
 {
@@ -53168,6 +53156,467 @@ width = 794;
 }
 );
 unicode = E109;
+},
+{
+glyphname = "gravebelow-teng";
+lastChange = "2026-02-11 23:00:00 +0000";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{153, 0}";
+},
+{
+name = bottom;
+position = "{134, -127}";
+}
+);
+components = (
+{
+name = "grave-teng";
+transform = "{1, 0, 0, 1, 0, -730}";
+}
+);
+layerId = "4397B867-53E7-4964-BB9B-A578920F109C";
+width = 267;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{153, 0}";
+},
+{
+name = bottom;
+position = "{134, -127}";
+}
+);
+components = (
+{
+name = "grave-teng";
+transform = "{1, 0, 0, 1, 0, -750}";
+}
+);
+layerId = "0ED38B93-C2B0-4B4A-9C6D-D7838A33C317";
+width = 267;
+}
+);
+leftMetricsKey = "=20";
+rightMetricsKey = "=20";
+unicode = E097;
+},
+
+{
+glyphname = "caronbelow-teng";
+lastChange = "2026-02-11 23:00:00 +0000";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{147, 0}";
+},
+{
+name = bottom;
+position = "{147, -150}";
+}
+);
+components = (
+{
+name = "caron-teng";
+transform = "{1, 0, 0, 1, 0, -730}";
+}
+);
+layerId = "4397B867-53E7-4964-BB9B-A578920F109C";
+width = 294;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{147, 0}";
+},
+{
+name = bottom;
+position = "{147, -140}";
+}
+);
+components = (
+{
+name = "caron-teng";
+transform = "{1, 0, 0, 1, 0, -750}";
+}
+);
+layerId = "0ED38B93-C2B0-4B4A-9C6D-D7838A33C317";
+width = 306;
+}
+);
+leftMetricsKey = "=20";
+rightMetricsKey = "=20";
+unicode = E096;
+},
+
+{
+glyphname = "brevebelow-teng";
+lastChange = "2026-02-11 23:00:00 +0000";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{166, 0}";
+},
+{
+name = bottom;
+position = "{166, -160}";
+}
+);
+components = (
+{
+name = "breve-teng";
+transform = "{1, 0, 0, 1, 0, -730}";
+}
+);
+layerId = "4397B867-53E7-4964-BB9B-A578920F109C";
+width = 331;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{166, 0}";
+},
+{
+name = bottom;
+position = "{166, -140}";
+}
+);
+components = (
+{
+name = "breve-teng";
+transform = "{1, 0, 0, 1, 0, -750}";
+}
+);
+layerId = "0ED38B93-C2B0-4B4A-9C6D-D7838A33C317";
+width = 345;
+}
+);
+leftMetricsKey = "=20";
+rightMetricsKey = "=20";
+unicode = E099;
+},
+
+{
+glyphname = "tildebelow-teng";
+lastChange = "2026-02-11 23:00:00 +0000";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{210, 0}";
+},
+{
+name = bottom;
+position = "{230, -117}";
+}
+);
+components = (
+{
+name = "tilde-teng";
+transform = "{1, 0, 0, 1, 0, -650}";
+}
+);
+layerId = "4397B867-53E7-4964-BB9B-A578920F109C";
+width = 380;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{210, 0}";
+},
+{
+name = bottom;
+position = "{230, -112}";
+}
+);
+components = (
+{
+name = "tilde-teng";
+transform = "{1, 0, 0, 1, 0, -685}";
+}
+);
+layerId = "0ED38B93-C2B0-4B4A-9C6D-D7838A33C317";
+width = 390;
+}
+);
+leftMetricsKey = "=20";
+rightMetricsKey = "=20";
+unicode = E09A;
+},
+
+{
+glyphname = "wavebelow-teng";
+lastChange = "2026-02-11 23:00:00 +0000";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{244, 0}";
+},
+{
+name = bottom;
+position = "{244, -115}";
+}
+);
+components = (
+{
+name = "wave-teng";
+transform = "{1, 0, 0, 1, 0, -650}";
+}
+);
+layerId = "4397B867-53E7-4964-BB9B-A578920F109C";
+width = 488;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{244, 0}";
+},
+{
+name = bottom;
+position = "{244, -106}";
+}
+);
+components = (
+{
+name = "wave-teng";
+transform = "{1, 0, 0, 1, 0, -685}";
+}
+);
+layerId = "0ED38B93-C2B0-4B4A-9C6D-D7838A33C317";
+width = 488;
+}
+);
+leftMetricsKey = "=20";
+rightMetricsKey = "=20";
+unicode = E09B;
+},
+
+{
+glyphname = "ringbelow-teng";
+lastChange = "2026-02-11 23:00:00 +0000";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{116, 0}";
+},
+{
+name = bottom;
+position = "{116, -107}";
+}
+);
+components = (
+{
+name = "ring-teng";
+transform = "{1, 0, 0, 1, 0, -730}";
+}
+);
+layerId = "4397B867-53E7-4964-BB9B-A578920F109C";
+width = 231;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{126, 0}";
+},
+{
+name = bottom;
+position = "{126, -107}";
+}
+);
+components = (
+{
+name = "ring-teng";
+transform = "{1, 0, 0, 1, 0, -750}";
+}
+);
+layerId = "0ED38B93-C2B0-4B4A-9C6D-D7838A33C317";
+width = 251;
+}
+);
+leftMetricsKey = "=20";
+rightMetricsKey = "=20";
+unicode = E09C;
+},
+
+{
+glyphname = "dottripleturnedbelow-teng";
+lastChange = "2026-02-11 23:00:00 +0000";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{159, 0}";
+},
+{
+name = bottom;
+position = "{159, -122}";
+}
+);
+components = (
+{
+name = "dottripleturnedabove-teng";
+transform = "{1, 0, 0, 1, 0, -730}";
+}
+);
+layerId = "4397B867-53E7-4964-BB9B-A578920F109C";
+width = 318;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{167, 0}";
+},
+{
+name = bottom;
+position = "{167, -102}";
+}
+);
+components = (
+{
+name = "dottripleturnedabove-teng";
+transform = "{1, 0, 0, 1, 0, -750}";
+}
+);
+layerId = "0ED38B93-C2B0-4B4A-9C6D-D7838A33C317";
+width = 334;
+}
+);
+leftMetricsKey = "=20";
+rightMetricsKey = "=20";
+unicode = E09D;
+},
+
+{
+glyphname = "rightcurl_dotinside-teng";
+lastChange = "2026-02-11 23:00:00 +0000";
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{107, 400}";
+},
+{
+name = top;
+position = "{130, 578}";
+}
+);
+components = (
+{
+name = "rightcurl-teng";
+},
+{
+name = "dotinside-teng";
+transform = "{1, 0, 0, 1, 140, 380}";
+}
+);
+layerId = "4397B867-53E7-4964-BB9B-A578920F109C";
+width = 219;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{119, 420}";
+},
+{
+name = top;
+position = "{142, 608}";
+}
+);
+components = (
+{
+name = "rightcurl-teng";
+},
+{
+name = "dotinside-teng";
+transform = "{1, 0, 0, 1, 150, 390}";
+}
+);
+layerId = "0ED38B93-C2B0-4B4A-9C6D-D7838A33C317";
+width = 239;
+}
+);
+leftMetricsKey = "=20";
+rightMetricsKey = "=20";
+unicode = E098;
+},
+
+{
+glyphname = "leftcurl_dotinside-teng";
+lastChange = "2026-02-11 23:00:00 +0000";
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{112, 400}";
+},
+{
+name = top;
+position = "{89, 578}";
+}
+);
+components = (
+{
+name = "leftcurl-teng";
+},
+{
+name = "dotinside-teng";
+transform = "{1, 0, 0, 1, 125, 370}";
+}
+);
+layerId = "4397B867-53E7-4964-BB9B-A578920F109C";
+width = 219;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{119, 420}";
+},
+{
+name = top;
+position = "{77, 608}";
+}
+);
+components = (
+{
+name = "leftcurl-teng";
+},
+{
+name = "dotinside-teng";
+transform = "{1, 0, 0, 1, 135, 380}";
+}
+);
+layerId = "0ED38B93-C2B0-4B4A-9C6D-D7838A33C317";
+width = 239;
+}
+);
+leftMetricsKey = "=20";
+rightMetricsKey = "=20";
+unicode = E09E;
 },
 {
 glyphname = "zero-teng.ss01";
@@ -69543,6 +69992,8 @@ subCategory = Nonspacing;
 },
 {
 glyphname = "dottripleabove-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -69796,6 +70247,8 @@ unicode = E040;
 },
 {
 glyphname = "dottriplebelow-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -69845,6 +70298,8 @@ unicode = E041;
 },
 {
 glyphname = "dotdblabove-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -70030,6 +70485,8 @@ unicode = E042;
 },
 {
 glyphname = "dotdblbelow-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2023-07-02 11:24:30 +0000";
 layers = (
 {
@@ -70079,6 +70536,8 @@ unicode = E043;
 },
 {
 glyphname = "dotabove-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -70154,6 +70613,8 @@ unicode = E044;
 },
 {
 glyphname = "dotbelow-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -70203,6 +70664,8 @@ unicode = E045;
 },
 {
 glyphname = "acute-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -70310,6 +70773,8 @@ unicode = E046;
 },
 {
 glyphname = "acutebelow-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -70359,6 +70824,8 @@ unicode = E047;
 },
 {
 glyphname = "acute_acute-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-04-08 12:40:31 +0000";
 layers = (
 {
@@ -70524,6 +70991,8 @@ unicode = E048;
 },
 {
 glyphname = "acutebelow_acutebelow-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2023-07-02 11:28:01 +0000";
 layers = (
 {
@@ -70575,6 +71044,8 @@ unicode = E049;
 },
 {
 glyphname = "rightcurl-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -70740,6 +71211,8 @@ unicode = E04A;
 },
 {
 glyphname = "rightcurl_rightcurl-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -70908,6 +71381,8 @@ rightMetricsKey = "=20";
 },
 {
 glyphname = "rightcurlbelow-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -70957,6 +71432,8 @@ unicode = E04B;
 },
 {
 glyphname = "leftcurl-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -71124,6 +71601,8 @@ unicode = E04C;
 },
 {
 glyphname = "leftcurl_leftcurl-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -71399,6 +71878,8 @@ rightMetricsKey = "=20";
 {
 color = 9;
 glyphname = "ring-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -71547,6 +72028,8 @@ unicode = E04E;
 {
 color = 9;
 glyphname = "wave-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -71679,6 +72162,8 @@ unicode = E04F;
 },
 {
 glyphname = "macron-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2023-07-02 09:49:39 +0000";
 layers = (
 {
@@ -71834,6 +72319,8 @@ unicode = E050;
 },
 {
 glyphname = "macronbelow-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -71883,6 +72370,8 @@ unicode = E051;
 },
 {
 glyphname = "tilde-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -72092,6 +72581,8 @@ unicode = E052;
 },
 {
 glyphname = "breve-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -72233,6 +72724,8 @@ unicode = E053;
 },
 {
 glyphname = "grave-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -72317,6 +72810,8 @@ unicode = E054;
 },
 {
 glyphname = "caron-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -72525,6 +73020,8 @@ unicode = E055;
 },
 {
 glyphname = "dottripleturnedabove-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -72668,6 +73165,8 @@ unicode = E056;
 },
 {
 glyphname = "thinnas-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -73025,6 +73524,8 @@ unicode = E057;
 },
 {
 glyphname = "sarince-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -73243,6 +73744,8 @@ unicode = E059;
 },
 {
 glyphname = "dotinside-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -73310,6 +73813,8 @@ unicode = E05A;
 },
 {
 glyphname = "leftcurlbelow-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -73360,6 +73865,8 @@ unicode = E04D;
 {
 color = 9;
 glyphname = "rightcurlbelowright-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -73407,6 +73914,8 @@ unicode = E05F;
 },
 {
 glyphname = "duodecimalleast-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-07 15:54:15 +0000";
 layers = (
 {
@@ -73605,6 +74114,8 @@ subCategory = Nonspacing;
 {
 color = 0;
 glyphname = "dottriplebelow-teng.lambe";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2023-07-02 11:30:22 +0000";
 layers = (
 {
@@ -73654,6 +74165,8 @@ rightMetricsKey = "=20";
 {
 color = 0;
 glyphname = "dotdblbelow-teng.lambe";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2023-07-02 11:29:44 +0000";
 layers = (
 {
@@ -73703,6 +74216,8 @@ rightMetricsKey = "=20";
 {
 color = 0;
 glyphname = "dotbelow-teng.lambe";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2023-07-02 11:30:51 +0000";
 layers = (
 {
@@ -73752,6 +74267,8 @@ rightMetricsKey = "=20";
 {
 color = 0;
 glyphname = "rightcurlbelow-teng.lambe";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2023-07-02 11:32:59 +0000";
 layers = (
 {
@@ -73800,6 +74317,8 @@ rightMetricsKey = "=20";
 },
 {
 glyphname = "macronbelow-teng.lambe";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -73955,6 +74474,8 @@ rightMetricsKey = "=20";
 {
 color = 0;
 glyphname = "thinnas-teng.lambe";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2023-07-02 11:33:09 +0000";
 layers = (
 {
@@ -74272,6 +74793,8 @@ rightMetricsKey = "=20";
 {
 color = 0;
 glyphname = "leftcurlbelow-teng.lambe";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2023-07-02 11:33:20 +0000";
 layers = (
 {
@@ -74321,6 +74844,8 @@ rightMetricsKey = "=20";
 {
 color = 0;
 glyphname = "rightcurlbelowright-teng.lambe";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2023-07-02 11:33:29 +0000";
 layers = (
 {
@@ -74368,6 +74893,8 @@ width = 293;
 {
 color = 9;
 glyphname = "wave-teng.short";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -74532,6 +75059,8 @@ rightMetricsKey = "=20";
 },
 {
 glyphname = "macron-teng.short";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -74692,6 +75221,8 @@ rightMetricsKey = "=20";
 },
 {
 glyphname = "macronbelow-teng.short";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -74742,6 +75273,8 @@ rightMetricsKey = "=20";
 },
 {
 glyphname = "tilde-teng.short";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -74951,6 +75484,8 @@ rightMetricsKey = "=20";
 {
 color = 9;
 glyphname = "wave-teng.shortL";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -75115,6 +75650,8 @@ rightMetricsKey = "=20";
 },
 {
 glyphname = "macron-teng.shortL";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -75276,6 +75813,8 @@ rightMetricsKey = "=20";
 {
 color = 9;
 glyphname = "wave-teng.shortR";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -75440,6 +75979,8 @@ rightMetricsKey = "=20";
 },
 {
 glyphname = "macron-teng.shortR";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2023-07-02 09:48:56 +0000";
 layers = (
 {
@@ -75600,6 +76141,8 @@ rightMetricsKey = "=20";
 },
 {
 glyphname = "macronbelow-teng.shortR";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -75650,6 +76193,8 @@ rightMetricsKey = "=20";
 },
 {
 glyphname = "macron-teng.silme";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2023-07-02 10:07:42 +0000";
 layers = (
 {
@@ -75799,6 +76344,8 @@ rightMetricsKey = "=20";
 {
 color = 9;
 glyphname = "caron-teng.ss06";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -76120,6 +76667,8 @@ rightMetricsKey = "=20";
 {
 color = 9;
 glyphname = "wave-teng.wide";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -76284,6 +76833,8 @@ rightMetricsKey = "=20";
 },
 {
 glyphname = "macron-teng.wide";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -76438,6 +76989,8 @@ rightMetricsKey = "=20";
 },
 {
 glyphname = "macronbelow-teng.wide";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -79156,6 +79709,8 @@ width = 294;
 color = 9;
 export = 0;
 glyphname = "commaaccent-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-04 13:15:11 +0000";
 layers = (
 {
@@ -80473,6 +81028,8 @@ width = 238;
 color = 9;
 export = 0;
 glyphname = "ogonek-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-04 13:15:11 +0000";
 layers = (
 {
