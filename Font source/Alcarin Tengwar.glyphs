@@ -29,11 +29,6 @@ code = "osse-teng\012umbarascent-teng\012nwalme-teng\012aare-teng\012roomen-teng
 name = normal;
 },
 {
-code = "osse_sarincefina-teng\012umbarascent_sarincefina-teng\012nwalme_sarincefina-teng\012aare_sarincefina-teng\012roomen_sarincefina-teng\012anca_sarincefina-teng\012harma_sarincefina-teng\012ando_sarincefina-teng\012angaascent_sarincefina-teng\012nuumen_sarincefina-teng\012calmaascent_sarincefina-teng\012quesse_sarincefina-teng\012silmeturned_sarincefina-teng\012#mhbelerian_sarincefina-teng\012vaiya_sarincefina-teng\012carriershort_sarincefina-teng\012# mh_sarincefina-teng\012lambe_sarincefina-teng\012tincoascent_sarincefina-teng\012ungwe_sarincefina-teng\012parmaascent_sarincefina-teng\012arda_sarincefina-teng\012# hwbombadil_sarincefina-teng\012thuule_sarincefina-teng\012parma_sarincefina-teng\012anto_sarincefina-teng\012vilya_sarincefina-teng\012anna_sarincefina-teng\012vala_sarincefina-teng\012#hwlowdham_sarincefina-teng\012calma_sarincefina-teng\012hwesta_sarincefina-teng\012#uure_sarincefina-teng\012formen_sarincefina-teng\012noldo_sarincefina-teng\012aareturned_sarincefina-teng\012#carrierlong_sarincefina-teng\012alda_sarincefina-teng\012umbar_sarincefina-teng\012ungweascent_sarincefina-teng\012quesseascent_sarincefina-teng\012ossereversed_sarincefina-teng\012tinco_sarincefina-teng\012ampa_sarincefina-teng\012wbombadil_sarincefina-teng\012annaopen_sarincefina-teng\012#quchris_sarincefina-teng\012silme_sarincefina-teng\012hyarmen_sarincefina-teng\012anga_sarincefina-teng\012andoascent_sarincefina-teng\012oore_sarincefina-teng\012unque_sarincefina-teng\012yanta_sarincefina-teng\012hwestasindar_sarincefina-teng\012halla_sarincefina-teng\012malta_sarincefina-teng";
-disabled = 1;
-name = sarinceliga;
-},
-{
 code = "tinco-teng\012parma-teng\012ando-teng\012umbar-teng\012anga-teng\012thuule-teng\012formen-teng\012harma-teng\012anto-teng\012ampa-teng\012anca-teng\012nuumen-teng\012malta-teng\012noldo-teng\012oore-teng\012vala-teng\012anna-teng\012tincoascent-teng\012parmaascent-teng\012calmaascent-teng\012andoascent-teng\012umbarascent-teng\012angaascent-teng";
 name = sarinceBottom0;
 },
