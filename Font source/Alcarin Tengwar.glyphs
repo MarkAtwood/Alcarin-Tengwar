@@ -38470,6 +38470,8 @@ rightMetricsKey = "sarincefina-teng";
 },
 {
 glyphname = "sarincefina-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-04 13:46:45 +0000";
 layers = (
 {
@@ -38683,6 +38685,8 @@ unicode = E058;
 {
 color = 9;
 glyphname = "sarincefina2-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 02:03:04 +0000";
 layers = (
 {
@@ -38930,6 +38934,8 @@ unicode = E05B;
 },
 {
 glyphname = "sarincefina3-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 02:03:28 +0000";
 layers = (
 {
@@ -39369,6 +39375,8 @@ unicode = E05D;
 {
 color = 9;
 glyphname = "sarincefina-teng.short";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-04 13:53:32 +0000";
 layers = (
 {
@@ -39580,6 +39588,8 @@ rightMetricsKey = "sarincefina-teng";
 },
 {
 glyphname = "sarincefina-teng.top";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-04 13:57:48 +0000";
 layers = (
 {
@@ -39793,6 +39803,8 @@ rightMetricsKey = "sarincefina2-teng";
 {
 color = 9;
 glyphname = "sarincefina2-teng.top";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 02:03:12 +0000";
 layers = (
 {
@@ -39859,6 +39871,8 @@ rightMetricsKey = "sarincefina2-teng";
 },
 {
 glyphname = "sarincefina3-teng.top";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 02:03:35 +0000";
 layers = (
 {
@@ -69543,6 +69557,8 @@ subCategory = Nonspacing;
 },
 {
 glyphname = "dottripleabove-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -69796,6 +69812,8 @@ unicode = E040;
 },
 {
 glyphname = "dottriplebelow-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -69845,6 +69863,8 @@ unicode = E041;
 },
 {
 glyphname = "dotdblabove-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -70030,6 +70050,8 @@ unicode = E042;
 },
 {
 glyphname = "dotdblbelow-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2023-07-02 11:24:30 +0000";
 layers = (
 {
@@ -70079,6 +70101,8 @@ unicode = E043;
 },
 {
 glyphname = "dotabove-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -70154,6 +70178,8 @@ unicode = E044;
 },
 {
 glyphname = "dotbelow-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -70203,6 +70229,8 @@ unicode = E045;
 },
 {
 glyphname = "acute-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -70310,6 +70338,8 @@ unicode = E046;
 },
 {
 glyphname = "acutebelow-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -70359,6 +70389,8 @@ unicode = E047;
 },
 {
 glyphname = "acute_acute-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-04-08 12:40:31 +0000";
 layers = (
 {
@@ -70524,6 +70556,8 @@ unicode = E048;
 },
 {
 glyphname = "acutebelow_acutebelow-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2023-07-02 11:28:01 +0000";
 layers = (
 {
@@ -70575,6 +70609,8 @@ unicode = E049;
 },
 {
 glyphname = "rightcurl-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -70740,6 +70776,8 @@ unicode = E04A;
 },
 {
 glyphname = "rightcurl_rightcurl-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -70908,6 +70946,8 @@ rightMetricsKey = "=20";
 },
 {
 glyphname = "rightcurlbelow-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -70957,6 +70997,8 @@ unicode = E04B;
 },
 {
 glyphname = "leftcurl-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -71124,6 +71166,8 @@ unicode = E04C;
 },
 {
 glyphname = "leftcurl_leftcurl-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -71399,6 +71443,8 @@ rightMetricsKey = "=20";
 {
 color = 9;
 glyphname = "ring-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -71547,6 +71593,8 @@ unicode = E04E;
 {
 color = 9;
 glyphname = "wave-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -71679,6 +71727,8 @@ unicode = E04F;
 },
 {
 glyphname = "macron-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2023-07-02 09:49:39 +0000";
 layers = (
 {
@@ -71834,6 +71884,8 @@ unicode = E050;
 },
 {
 glyphname = "macronbelow-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -71883,6 +71935,8 @@ unicode = E051;
 },
 {
 glyphname = "tilde-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -72092,6 +72146,8 @@ unicode = E052;
 },
 {
 glyphname = "breve-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -72233,6 +72289,8 @@ unicode = E053;
 },
 {
 glyphname = "grave-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -72317,6 +72375,8 @@ unicode = E054;
 },
 {
 glyphname = "caron-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -72525,6 +72585,8 @@ unicode = E055;
 },
 {
 glyphname = "dottripleturnedabove-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -72668,6 +72730,8 @@ unicode = E056;
 },
 {
 glyphname = "thinnas-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -73025,6 +73089,8 @@ unicode = E057;
 },
 {
 glyphname = "sarince-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -73243,6 +73309,8 @@ unicode = E059;
 },
 {
 glyphname = "dotinside-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -73310,6 +73378,8 @@ unicode = E05A;
 },
 {
 glyphname = "leftcurlbelow-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -73360,6 +73430,8 @@ unicode = E04D;
 {
 color = 9;
 glyphname = "rightcurlbelowright-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -73407,6 +73479,8 @@ unicode = E05F;
 },
 {
 glyphname = "duodecimalleast-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-07 15:54:15 +0000";
 layers = (
 {
@@ -73605,6 +73679,8 @@ subCategory = Nonspacing;
 {
 color = 0;
 glyphname = "dottriplebelow-teng.lambe";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2023-07-02 11:30:22 +0000";
 layers = (
 {
@@ -73654,6 +73730,8 @@ rightMetricsKey = "=20";
 {
 color = 0;
 glyphname = "dotdblbelow-teng.lambe";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2023-07-02 11:29:44 +0000";
 layers = (
 {
@@ -73703,6 +73781,8 @@ rightMetricsKey = "=20";
 {
 color = 0;
 glyphname = "dotbelow-teng.lambe";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2023-07-02 11:30:51 +0000";
 layers = (
 {
@@ -73752,6 +73832,8 @@ rightMetricsKey = "=20";
 {
 color = 0;
 glyphname = "rightcurlbelow-teng.lambe";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2023-07-02 11:32:59 +0000";
 layers = (
 {
@@ -73800,6 +73882,8 @@ rightMetricsKey = "=20";
 },
 {
 glyphname = "macronbelow-teng.lambe";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -73955,6 +74039,8 @@ rightMetricsKey = "=20";
 {
 color = 0;
 glyphname = "thinnas-teng.lambe";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2023-07-02 11:33:09 +0000";
 layers = (
 {
@@ -74272,6 +74358,8 @@ rightMetricsKey = "=20";
 {
 color = 0;
 glyphname = "leftcurlbelow-teng.lambe";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2023-07-02 11:33:20 +0000";
 layers = (
 {
@@ -74321,6 +74409,8 @@ rightMetricsKey = "=20";
 {
 color = 0;
 glyphname = "rightcurlbelowright-teng.lambe";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2023-07-02 11:33:29 +0000";
 layers = (
 {
@@ -74368,6 +74458,8 @@ width = 293;
 {
 color = 9;
 glyphname = "wave-teng.short";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -74532,6 +74624,8 @@ rightMetricsKey = "=20";
 },
 {
 glyphname = "macron-teng.short";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -74692,6 +74786,8 @@ rightMetricsKey = "=20";
 },
 {
 glyphname = "macronbelow-teng.short";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -74742,6 +74838,8 @@ rightMetricsKey = "=20";
 },
 {
 glyphname = "tilde-teng.short";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -74951,6 +75049,8 @@ rightMetricsKey = "=20";
 {
 color = 9;
 glyphname = "wave-teng.shortL";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -75115,6 +75215,8 @@ rightMetricsKey = "=20";
 },
 {
 glyphname = "macron-teng.shortL";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -75276,6 +75378,8 @@ rightMetricsKey = "=20";
 {
 color = 9;
 glyphname = "wave-teng.shortR";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -75440,6 +75544,8 @@ rightMetricsKey = "=20";
 },
 {
 glyphname = "macron-teng.shortR";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2023-07-02 09:48:56 +0000";
 layers = (
 {
@@ -75600,6 +75706,8 @@ rightMetricsKey = "=20";
 },
 {
 glyphname = "macronbelow-teng.shortR";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -75650,6 +75758,8 @@ rightMetricsKey = "=20";
 },
 {
 glyphname = "macron-teng.silme";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2023-07-02 10:07:42 +0000";
 layers = (
 {
@@ -75799,6 +75909,8 @@ rightMetricsKey = "=20";
 {
 color = 9;
 glyphname = "caron-teng.ss06";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -76120,6 +76232,8 @@ rightMetricsKey = "=20";
 {
 color = 9;
 glyphname = "wave-teng.wide";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -76284,6 +76398,8 @@ rightMetricsKey = "=20";
 },
 {
 glyphname = "macron-teng.wide";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -76438,6 +76554,8 @@ rightMetricsKey = "=20";
 },
 {
 glyphname = "macronbelow-teng.wide";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-06 14:32:57 +0000";
 layers = (
 {
@@ -79156,6 +79274,8 @@ width = 294;
 color = 9;
 export = 0;
 glyphname = "commaaccent-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-04 13:15:11 +0000";
 layers = (
 {
@@ -80473,6 +80593,8 @@ width = 238;
 color = 9;
 export = 0;
 glyphname = "ogonek-teng";
+category = Mark;
+subCategory = Nonspacing;
 lastChange = "2022-01-04 13:15:11 +0000";
 layers = (
 {
